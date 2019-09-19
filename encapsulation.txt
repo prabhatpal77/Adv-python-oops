@@ -1,0 +1,46 @@
+Encapsulation:-
+The concept of binding or grouping related data member along with its related functionalities is known as a
+encapsulation.
+
+Example:-
+
+Group 1.
+
+cname=None
+cadd=None
+cacno=None
+cbal=None
+def deposit():
+-----------
+-----------
+def withdraw():
+-----------
+-----------
+def transfer():
+-----------
+-----------
+def balenq():
+-----------
+-----------
+
+Group 2.
+
+ename=None
+eadd=None
+eid=None
+esal=None
+def da():
+-----------
+-----------
+def hra():
+-----------
+-----------
+def pf():
+-----------
+-----------
+def tax():
+-----------
+-----------
+def tsal():
+-----------
+-----------

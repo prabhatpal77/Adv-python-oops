@@ -1,0 +1,3 @@
+Ww can access the properties of one class into another class in two ways.
+1. has a relationship
+2. is a relationship

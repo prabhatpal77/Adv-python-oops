@@ -1,0 +1,10 @@
+Class is a syntax or structure or container is used to group related data member along with its
+related functionlities.
+
+example:
+class <classname>:
+    """doc str"""
+    -------------------
+    -------------------
+    -------------------
+    -------------------

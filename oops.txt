@@ -1,0 +1,50 @@
+OOPs principles are certain rules defferent oops principles are :-
+1. Encapsulation.
+2. Inheritance.
+3. Polymorphism.
+4. Abstraction.
+
+If we implement the business or any organization usecases in any programming language according to the OOPS
+principles then we will get following benifits in those applications.
+1. Security
+2. Flexibility
+3. Reusability
+
+If we implement the business organization usecases in python language according to the processor oriented
+machanism then we will phase following problems.
+1. Security is missing for the global variables.
+2. Multiple people can not able to access that application at a time.
+3. Memory management is enefficient.
+
+Example:-
+cname = None
+cadd = None
+cacno = None
+ename = None
+eadd = None
+eid = None
+esal = None
+def deposit():
+-----------
+-----------
+def withdraw():
+-----------
+-----------
+def balenq():
+-----------
+-----------
+def da():
+-----------
+-----------
+def hra():
+-----------
+-----------
+def pf():
+-----------
+-----------
+def tax():
+-----------
+-----------
+def tsal():
+-----------
+-----------

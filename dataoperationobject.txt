@@ -1,0 +1,27 @@
+Data:-
+Data can be represented with in the class syntax by using variable.
+We can define 3 types of variable with in the class syntax.
+1. Static variables or class variables
+2. Non-static variables or instance variables
+3. Local variables
+
+Operations:-
+Operations can be represented in class by using methods.
+We can define 3 types of methods within the class.
+1. Static methods
+2. Non-static methods
+3. Class methods
+
+Object:-
+The concept of allocating memory space for non-static variables of a class in run time dynamically known as a object.
+Or instance of a class is known as a object.
+Instance means dynamic memory allocation.
+Syntax:- referencevariablename= classname()-------------object creation statement.
+
+After creating the object python interpretor takes the original address of the objects, create indirect
+address based on the original address of the object and gives that indirect address to a variable.
+The variable which is storing the indirect address of the object is known a reference variable.
+
+The indirect address which is created by the python interpretor based on original address of the object
+contains 2 parts.
+1. Class name            2. Hexadecimal representation of hash code value.  
